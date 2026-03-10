@@ -1,0 +1,5 @@
+time_casa = input("Time da casa: ")
+gols_casa = input("Gols do time da casa: ")
+time_visitante = input("Time visitante: ")
+gols_visitante = inpout("Gols do time visitante: ")
+print(time_visitante, " ", gols_visitante, "X", time_casa, " ", gols_casa)
